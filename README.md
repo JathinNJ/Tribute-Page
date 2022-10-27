@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm JOSHEP JATHIN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<br/>
+<h1>Assignment-1 HTML CSS</h1>
+<p align="left"> <img src="new6.jpg" alt="vamsikrishna-07" /> </p>
+<br/>
+<h1>Assignment-2 Bootstrap</h1>
+<p align="left"> <img src="new7.jpg" alt="vamsikrishna-07" /> </p>
+
+<br/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jathinnj&label=Profile%20views&color=0e75b6&style=flat" alt="jathinnj" /> </p>
 
